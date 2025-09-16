@@ -139,3 +139,5 @@ Postman
 The API is read-only for now (GET only).
 
 All data is stored in a local skills.json file — no database required.
+
+Credits goes for USAM : https://usamif.com for providing this learning opportunity.
