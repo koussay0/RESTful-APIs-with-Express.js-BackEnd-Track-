@@ -44,6 +44,7 @@ Returns a basic status message.
 {
   "message": "Skills API is running!"
 }
+
 <img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/34e95c08-65ac-49c7-a07f-ed0af4c91ec6" />
 
 
@@ -51,6 +52,7 @@ Returns a basic status message.
 
 GET http://localhost:3001/api/skills
 Returns all skills.
+
 <img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/d60a5cd1-a8ec-48d3-9f8b-1f7e6e75c352" />
 
 Query Parameters (optional):
@@ -64,6 +66,7 @@ sort	/api/skills?sort=name	Sorts skills alphabetically by name
 GET /api/skills/:id
 Example:
 GET /api/skills/2
+
 <img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/2fea3159-ca09-4742-8474-3284f00a7ca2" />
 
 
