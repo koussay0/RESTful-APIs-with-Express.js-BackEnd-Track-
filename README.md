@@ -79,6 +79,8 @@ GET /api/skills/category/:category
 Example:
 GET /api/skills/category/Frontend Framework
 
+<img width="600" height="407" alt="image" src="https://github.com/user-attachments/assets/f02bc237-8fc3-4cc9-94c6-72bbfa5fd040" />
+
 🧰 Example skills.json
 [
   {
