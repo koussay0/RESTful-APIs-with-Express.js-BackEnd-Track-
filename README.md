@@ -26,12 +26,8 @@ skills-api/
 └── README.md
 
 ## Start the Server
-Development (with live reloading):
-npm run dev
-
-## Production:
-npm start
-or, node server.js
+node server.js
+or, npm start (not tested)
 
 # Server runs by default on:
 http://localhost:3001
